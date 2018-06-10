@@ -1,0 +1,12 @@
+{
+  "name": "Google Maps",
+  "version": "1.0.0",
+  "description": "browser app",
+  "main": "index.html",
+  "dependencies": {
+    "readline-sync": "^1.4.8"
+  },
+  "devDependencies": {},
+  "author": "Sviatoslav Hrabar",
+  "license": "ISC"
+}
